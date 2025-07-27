@@ -69,7 +69,7 @@ Check out the demo app in `Demo/IndieBuilderKitDemo.xcworkspace` to see all comp
 ### ✨ Paywall & Subscriptions
 Beautiful subscription paywall with complete subscription management. One service handles everything from UI state to purchases.
 
-<img src="Images/paywal.png" width="300" alt="Paywall View with subscription options">
+<img src="Images/paywall.png" width="300" alt="Paywall View with subscription options">
 
 ```swift
 // Simple paywall with mock service (for testing/prototyping)
