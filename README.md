@@ -69,7 +69,7 @@ Check out the demo app in `Demo/IndieBuilderKitDemo.xcworkspace` to see all comp
 ### ✨ Paywall & Subscriptions
 Beautiful subscription paywall with complete subscription management. One service handles everything from UI state to purchases.
 
-<img src="Screenshots/paywal.png" width="300" alt="Paywall View with subscription options">
+<img src="Images/paywal.png" width="300" alt="Paywall View with subscription options">
 
 ```swift
 // Simple paywall with mock service (for testing/prototyping)
@@ -212,12 +212,12 @@ Ready-to-use SwiftUI components for common app patterns. All follow modern iOS d
 
 <table>
 <tr>
-<td><img src="Screenshots/onboarding.png" width="200" alt="Onboarding flow"></td>
-<td><img src="Screenshots/settings.png" width="200" alt="Settings screen"></td>
+<td><img src="Images/onboarding.png" width="200" alt="Onboarding flow"></td>
+<td><img src="Images/settings.png" width="200" alt="Settings screen"></td>
 </tr>
 <tr>
-<td><img src="Screenshots/buttons.png" width="200" alt="Button component library"></td>
-<td><img src="Screenshots/ui-components.png" width="200" alt="UI components showcase"></td>
+<td><img src="Images/buttons.png" width="200" alt="Button component library"></td>
+<td><img src="Images/ui-components.png" width="200" alt="UI components showcase"></td>
 </tr>
 </table>
 
@@ -283,9 +283,9 @@ Handle notification permissions gracefully with user-friendly prompts and beauti
 
 <table>
 <tr>
-<td><img src="Screenshots/notification-permission.png" width="200" alt="Notification permission request"></td>
-<td><img src="Screenshots/rating.png" width="200" alt="Rating request view"></td>
-<td><img src="Screenshots/network.png" width="200" alt="Network demo"></td>
+<td><img src="Images/notification-permission.png" width="200" alt="Notification permission request"></td>
+<td><img src="Images/rating.png" width="200" alt="Rating request view"></td>
+<td><img src="Images/network.png" width="200" alt="Network demo"></td>
 </tr>
 </table>
 
