@@ -1,6 +1,4 @@
-<img src="Images/app_icon.png" width="80" alt="IndieBuilderKit App Icon">
-
-**IndieBuilderKit**
+<img src="Images/cover.png" alt="IndieBuilderKit - iOS toolkit showcase featuring paywall, settings, rating, notifications, typography, and UI components" width="100%">
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2017.0+-blue.svg)](https://developer.apple.com/ios/)
@@ -38,8 +36,6 @@ struct MyApp: App {
     }
 }
 ```
-
-<img src="Images/cover.png" alt="IndieBuilderKit - iOS toolkit showcase featuring paywall, settings, rating, notifications, typography, and UI components" width="100%">
 
 ## Why IndieBuilderKit?
 
