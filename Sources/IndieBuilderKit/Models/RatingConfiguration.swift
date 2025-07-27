@@ -9,6 +9,8 @@ import SwiftUI
 
 // MARK: - Rating Configuration
 
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
 public struct RatingConfiguration {
     public let title: String
     public let subtitle: String
@@ -18,6 +20,9 @@ public struct RatingConfiguration {
     public let primaryButtonTitle: String
     public let secondaryButtonTitle: String
     
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
     public init(
         title: String = "Enjoying the App?",
         subtitle: String = "Your feedback means the world to us! Help other users discover this app by leaving a review on the App Store.",
@@ -75,6 +80,7 @@ public extension RatingBenefit {
 
 // MARK: - Predefined Configurations
 
+@available(macOS 10.15, *)
 public extension RatingConfiguration {
     /// Default rating configuration
     static func `default`() -> RatingConfiguration {
@@ -82,6 +88,7 @@ public extension RatingConfiguration {
     }
     
     /// Minimal configuration with fewer benefits
+    @available(macOS 10.15, *)
     static func minimal() -> RatingConfiguration {
         return RatingConfiguration(
             title: "Rate This App",
@@ -97,6 +104,9 @@ public extension RatingConfiguration {
     }
     
     /// Custom configuration
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
     static func custom(
         title: String,
         subtitle: String,

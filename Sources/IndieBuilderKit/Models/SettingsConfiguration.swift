@@ -2,6 +2,7 @@ import Foundation
 import SwiftUI
 
 /// Configuration for the SettingsView component
+@available(macOS 10.15, *)
 public struct SettingsConfiguration {
     
     // MARK: - App Information
@@ -46,6 +47,7 @@ public struct SettingsConfiguration {
     public let newsletterSignupURL: String?
     
     // MARK: - Initialization
+    @available(macOS 10.15, *)
     public init(
         appStoreId: String? = nil,
         developerName: String? = nil,
@@ -140,6 +142,7 @@ public struct SettingsConfiguration {
 }
 
 /// Custom settings section
+@available(macOS 10.15, *)
 public struct SettingsSection {
     public let title: String
     public let items: [SettingsItem]
@@ -153,6 +156,7 @@ public struct SettingsSection {
 }
 
 /// Individual settings item
+@available(macOS 10.15, *)
 public struct SettingsItem {
     public let title: String
     public let subtitle: String?
@@ -176,6 +180,8 @@ public struct SettingsItem {
 }
 
 /// Settings item actions
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
 public enum SettingsAction {
     case url(URL)
     case email(String, subject: String?, body: String?)

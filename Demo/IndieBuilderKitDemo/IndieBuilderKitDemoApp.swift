@@ -7,12 +7,15 @@ struct IndieBuilderKitDemoApp: App {
     
     init() {
         // Register custom fonts if needed
-        IndieBuilderKit.registerCustomFonts()
+        
     }
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainAppView()
+                .task {
+                    IndieBuilderKit.registerCustomFonts()
+                }
                 .environment(\.subscriptionService, demoSubscriptionService)
         }
     }

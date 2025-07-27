@@ -1,5 +1,7 @@
 import SwiftUI
 
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
 public enum PaywallImage {
     case systemIcon(String)
     case bundleImage(String)
@@ -145,6 +147,57 @@ public struct PaywallStrings {
     }
 }
 
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
+@available(macOS 10.15, *)
 public struct PaywallConfiguration {
     public let title: String
     public let subtitle: String
@@ -154,6 +207,8 @@ public struct PaywallConfiguration {
     public let features: [PaywallFeature]
     public let strings: PaywallStrings
     
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
     public init(
         title: String = "Unlock Premium Features",
         subtitle: String = "Get unlimited access to all features with our premium subscription",
@@ -205,6 +260,7 @@ public struct PaywallConfiguration {
         PaywallConfiguration()
     }
     
+    @available(macOS 10.15, *)
     public static func custom(
         title: String,
         subtitle: String,
@@ -226,6 +282,9 @@ public struct PaywallConfiguration {
     }
     
     /// Create a localized paywall configuration
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
+    @available(macOS 10.15, *)
     public static func localized(
         title: String = NSLocalizedString("paywall.title", value: "Unlock Premium Features", comment: "Paywall title"),
         subtitle: String = NSLocalizedString("paywall.subtitle", value: "Get unlimited access to all features with our premium subscription", comment: "Paywall subtitle"),

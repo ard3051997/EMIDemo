@@ -11,6 +11,7 @@ import UIKit
 
 // MARK: - Typography Extensions
 
+@available(macOS 10.15, *)
 public extension Font {
     /// Roboto Medium font with specified size, falls back to system medium
     static func medium(_ size: CGFloat) -> Font {
@@ -69,6 +70,7 @@ struct FontUtility {
 
 // MARK: - Font Registration
 
+@available(macOS 10.15, *)
 extension Font {
     /// Registers custom Roboto fonts from the bundle with error handling
     static func registerFonts() {
