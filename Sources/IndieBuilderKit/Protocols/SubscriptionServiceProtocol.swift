@@ -74,6 +74,17 @@ public protocol SubscriptionServiceProtocol: AnyObject {
     
     /// Log out current user
     func logOut()
+    
+    // MARK: - Convenience
+    
+    /// Whether the user has an active subscription
+    var isSubscribed: Bool { get }
+}
+
+public extension SubscriptionServiceProtocol {
+    var isSubscribed: Bool {
+        return subscriptionStatus.isActive
+    }
 }
 
 // MARK: - Errors

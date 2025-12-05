@@ -13,6 +13,40 @@
 		151EBD252E364205000645B5 /* NetworkDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151EBD1C2E364205000645B5 /* NetworkDemo.swift */; };
 		151EBD262E364205000645B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151EBD1F2E364205000645B5 /* ContentView.swift */; };
 		151EBD282E3642A2000645B5 /* IndieBuilderKit in Frameworks */ = {isa = PBXBuildFile; productRef = 151EBD272E3642A2000645B5 /* IndieBuilderKit */; };
+		5D4C8A2C2EE30B3A003DFF52 /* CurrencyConverterScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A1F2EE30B3A003DFF52 /* CurrencyConverterScreen.swift */; };
+		5D4C8A2D2EE30B3A003DFF52 /* RDCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A252EE30B3A003DFF52 /* RDCalculatorScreen.swift */; };
+		5D4C8A2E2EE30B3A003DFF52 /* EMIOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A292EE30B3A003DFF52 /* EMIOnboardingView.swift */; };
+		5D4C8A2F2EE30B3A003DFF52 /* PPFCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A242EE30B3A003DFF52 /* PPFCalculatorScreen.swift */; };
+		5D4C8A302EE30B3A003DFF52 /* GSTCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A222EE30B3A003DFF52 /* GSTCalculatorScreen.swift */; };
+		5D4C8A312EE30B3A003DFF52 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A2B2EE30B3A003DFF52 /* SplashScreen.swift */; };
+		5D4C8A322EE30B3A003DFF52 /* FDCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A212EE30B3A003DFF52 /* FDCalculatorScreen.swift */; };
+		5D4C8A332EE30B3A003DFF52 /* EMIHomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A282EE30B3A003DFF52 /* EMIHomeScreen.swift */; };
+		5D4C8A342EE30B3A003DFF52 /* EMICalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A202EE30B3A003DFF52 /* EMICalculatorScreen.swift */; };
+		5D4C8A352EE30B3A003DFF52 /* EMISettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A2A2EE30B3A003DFF52 /* EMISettingsView.swift */; };
+		5D4C8A362EE30B3A003DFF52 /* LoanComparisonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A232EE30B3A003DFF52 /* LoanComparisonScreen.swift */; };
+		5D4C8A372EE30B3A003DFF52 /* SIPCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A262EE30B3A003DFF52 /* SIPCalculatorScreen.swift */; };
+		5D4C8A4F2EE30F03003DFF52 /* FDCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A3F2EE30F03003DFF52 /* FDCalculatorScreen.swift */; };
+		5D4C8A502EE30F03003DFF52 /* EMIOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A482EE30F03003DFF52 /* EMIOnboardingView.swift */; };
+		5D4C8A512EE30F03003DFF52 /* EMICalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A462EE30F03003DFF52 /* EMICalculatorView.swift */; };
+		5D4C8A522EE30F03003DFF52 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A4D2EE30F03003DFF52 /* SplashScreen.swift */; };
+		5D4C8A532EE30F03003DFF52 /* SIPCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A442EE30F03003DFF52 /* SIPCalculatorScreen.swift */; };
+		5D4C8A542EE30F03003DFF52 /* RDCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A432EE30F03003DFF52 /* RDCalculatorScreen.swift */; };
+		5D4C8A552EE30F03003DFF52 /* LoanComparisonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A412EE30F03003DFF52 /* LoanComparisonScreen.swift */; };
+		5D4C8A562EE30F03003DFF52 /* CurrencyConverterScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A3D2EE30F03003DFF52 /* CurrencyConverterScreen.swift */; };
+		5D4C8A572EE30F03003DFF52 /* EMIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A382EE30F03003DFF52 /* EMIModels.swift */; };
+		5D4C8A582EE30F03003DFF52 /* DemoSubscriptionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A3A2EE30F03003DFF52 /* DemoSubscriptionService.swift */; };
+		5D4C8A592EE30F03003DFF52 /* EMISettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A492EE30F03003DFF52 /* EMISettingsView.swift */; };
+		5D4C8A5A2EE30F03003DFF52 /* EMICalculationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A3B2EE30F03003DFF52 /* EMICalculationService.swift */; };
+		5D4C8A5B2EE30F03003DFF52 /* GSTCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A402EE30F03003DFF52 /* GSTCalculatorScreen.swift */; };
+		5D4C8A5C2EE30F03003DFF52 /* EMICalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A3E2EE30F03003DFF52 /* EMICalculatorScreen.swift */; };
+		5D4C8A5D2EE30F03003DFF52 /* MainAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A4A2EE30F03003DFF52 /* MainAppView.swift */; };
+		5D4C8A5E2EE30F03003DFF52 /* OnboardingFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A4C2EE30F03003DFF52 /* OnboardingFlowView.swift */; };
+		5D4C8A5F2EE30F03003DFF52 /* EMIHomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A472EE30F03003DFF52 /* EMIHomeScreen.swift */; };
+		5D4C8A602EE30F03003DFF52 /* NetworkDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A4B2EE30F03003DFF52 /* NetworkDemo.swift */; };
+		5D4C8A612EE30F03003DFF52 /* PPFCalculatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4C8A422EE30F03003DFF52 /* PPFCalculatorScreen.swift */; };
+		5DFD7D8A2EE2D81F00266E8F /* OnboardingFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DFD7D892EE2D81F00266E8F /* OnboardingFlowView.swift */; };
+		5DFD7D8B2EE2D81F00266E8F /* EMICalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DFD7D872EE2D81F00266E8F /* EMICalculatorView.swift */; };
+		5DFD7D8C2EE2D81F00266E8F /* MainAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DFD7D882EE2D81F00266E8F /* MainAppView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,12 +55,62 @@
 		151EBD1E2E364205000645B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		151EBD1F2E364205000645B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		151EBD202E364205000645B5 /* IndieBuilderKitDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndieBuilderKitDemoApp.swift; sourceTree = "<group>"; };
+		5D4C8A1F2EE30B3A003DFF52 /* CurrencyConverterScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyConverterScreen.swift; sourceTree = "<group>"; };
+		5D4C8A202EE30B3A003DFF52 /* EMICalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMICalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A212EE30B3A003DFF52 /* FDCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A222EE30B3A003DFF52 /* GSTCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GSTCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A232EE30B3A003DFF52 /* LoanComparisonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanComparisonScreen.swift; sourceTree = "<group>"; };
+		5D4C8A242EE30B3A003DFF52 /* PPFCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PPFCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A252EE30B3A003DFF52 /* RDCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RDCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A262EE30B3A003DFF52 /* SIPCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SIPCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A282EE30B3A003DFF52 /* EMIHomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMIHomeScreen.swift; sourceTree = "<group>"; };
+		5D4C8A292EE30B3A003DFF52 /* EMIOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMIOnboardingView.swift; sourceTree = "<group>"; };
+		5D4C8A2A2EE30B3A003DFF52 /* EMISettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMISettingsView.swift; sourceTree = "<group>"; };
+		5D4C8A2B2EE30B3A003DFF52 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		5D4C8A382EE30F03003DFF52 /* EMIModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMIModels.swift; sourceTree = "<group>"; };
+		5D4C8A3A2EE30F03003DFF52 /* DemoSubscriptionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSubscriptionService.swift; sourceTree = "<group>"; };
+		5D4C8A3B2EE30F03003DFF52 /* EMICalculationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMICalculationService.swift; sourceTree = "<group>"; };
+		5D4C8A3D2EE30F03003DFF52 /* CurrencyConverterScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyConverterScreen.swift; sourceTree = "<group>"; };
+		5D4C8A3E2EE30F03003DFF52 /* EMICalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMICalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A3F2EE30F03003DFF52 /* FDCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A402EE30F03003DFF52 /* GSTCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GSTCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A412EE30F03003DFF52 /* LoanComparisonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanComparisonScreen.swift; sourceTree = "<group>"; };
+		5D4C8A422EE30F03003DFF52 /* PPFCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PPFCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A432EE30F03003DFF52 /* RDCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RDCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A442EE30F03003DFF52 /* SIPCalculatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SIPCalculatorScreen.swift; sourceTree = "<group>"; };
+		5D4C8A462EE30F03003DFF52 /* EMICalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMICalculatorView.swift; sourceTree = "<group>"; };
+		5D4C8A472EE30F03003DFF52 /* EMIHomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMIHomeScreen.swift; sourceTree = "<group>"; };
+		5D4C8A482EE30F03003DFF52 /* EMIOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMIOnboardingView.swift; sourceTree = "<group>"; };
+		5D4C8A492EE30F03003DFF52 /* EMISettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMISettingsView.swift; sourceTree = "<group>"; };
+		5D4C8A4A2EE30F03003DFF52 /* MainAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppView.swift; sourceTree = "<group>"; };
+		5D4C8A4B2EE30F03003DFF52 /* NetworkDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkDemo.swift; sourceTree = "<group>"; };
+		5D4C8A4C2EE30F03003DFF52 /* OnboardingFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFlowView.swift; sourceTree = "<group>"; };
+		5D4C8A4D2EE30F03003DFF52 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		5DFD7D872EE2D81F00266E8F /* EMICalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMICalculatorView.swift; sourceTree = "<group>"; };
+		5DFD7D882EE2D81F00266E8F /* MainAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppView.swift; sourceTree = "<group>"; };
+		5DFD7D892EE2D81F00266E8F /* OnboardingFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFlowView.swift; sourceTree = "<group>"; };
 		8B41F6452DEDD0D5001A66F9 /* IndieBuilderKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IndieBuilderKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5DFD7D8D2EE2D88100266E8F /* Exceptions for "Config" folder in "IndieDevKitDemo" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Debug.xcconfig,
+				Release.xcconfig,
+				Shared.xcconfig,
+				Tests.xcconfig,
+			);
+			target = 8B41F6442DEDD0D5001A66F9 /* IndieDevKitDemo */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8BD71C052DEE41D800CEDD92 /* Config */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5DFD7D8D2EE2D88100266E8F /* Exceptions for "Config" folder in "IndieDevKitDemo" target */,
+			);
 			path = Config;
 			sourceTree = "<group>";
 		};
@@ -55,6 +139,14 @@
 		151EBD1D2E364205000645B5 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				5DFD7D872EE2D81F00266E8F /* EMICalculatorView.swift */,
+				5D4C8A272EE30B3A003DFF52 /* Calculators */,
+				5D4C8A282EE30B3A003DFF52 /* EMIHomeScreen.swift */,
+				5D4C8A292EE30B3A003DFF52 /* EMIOnboardingView.swift */,
+				5D4C8A2A2EE30B3A003DFF52 /* EMISettingsView.swift */,
+				5D4C8A2B2EE30B3A003DFF52 /* SplashScreen.swift */,
+				5DFD7D882EE2D81F00266E8F /* MainAppView.swift */,
+				5DFD7D892EE2D81F00266E8F /* OnboardingFlowView.swift */,
 				151EBD1C2E364205000645B5 /* NetworkDemo.swift */,
 			);
 			path = Views;
@@ -63,6 +155,9 @@
 		151EBD212E364205000645B5 /* IndieBuilderKitDemo */ = {
 			isa = PBXGroup;
 			children = (
+				5D4C8A392EE30F03003DFF52 /* Models */,
+				5D4C8A3C2EE30F03003DFF52 /* Services */,
+				5D4C8A4E2EE30F03003DFF52 /* Views */,
 				151EBD1B2E364205000645B5 /* Services */,
 				151EBD1D2E364205000645B5 /* Views */,
 				151EBD1E2E364205000645B5 /* Assets.xcassets */,
@@ -70,6 +165,69 @@
 				151EBD202E364205000645B5 /* IndieBuilderKitDemoApp.swift */,
 			);
 			path = IndieBuilderKitDemo;
+			sourceTree = "<group>";
+		};
+		5D4C8A272EE30B3A003DFF52 /* Calculators */ = {
+			isa = PBXGroup;
+			children = (
+				5D4C8A1F2EE30B3A003DFF52 /* CurrencyConverterScreen.swift */,
+				5D4C8A202EE30B3A003DFF52 /* EMICalculatorScreen.swift */,
+				5D4C8A212EE30B3A003DFF52 /* FDCalculatorScreen.swift */,
+				5D4C8A222EE30B3A003DFF52 /* GSTCalculatorScreen.swift */,
+				5D4C8A232EE30B3A003DFF52 /* LoanComparisonScreen.swift */,
+				5D4C8A242EE30B3A003DFF52 /* PPFCalculatorScreen.swift */,
+				5D4C8A252EE30B3A003DFF52 /* RDCalculatorScreen.swift */,
+				5D4C8A262EE30B3A003DFF52 /* SIPCalculatorScreen.swift */,
+			);
+			path = Calculators;
+			sourceTree = "<group>";
+		};
+		5D4C8A392EE30F03003DFF52 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5D4C8A382EE30F03003DFF52 /* EMIModels.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5D4C8A3C2EE30F03003DFF52 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				5D4C8A3A2EE30F03003DFF52 /* DemoSubscriptionService.swift */,
+				5D4C8A3B2EE30F03003DFF52 /* EMICalculationService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		5D4C8A452EE30F03003DFF52 /* Calculators */ = {
+			isa = PBXGroup;
+			children = (
+				5D4C8A3D2EE30F03003DFF52 /* CurrencyConverterScreen.swift */,
+				5D4C8A3E2EE30F03003DFF52 /* EMICalculatorScreen.swift */,
+				5D4C8A3F2EE30F03003DFF52 /* FDCalculatorScreen.swift */,
+				5D4C8A402EE30F03003DFF52 /* GSTCalculatorScreen.swift */,
+				5D4C8A412EE30F03003DFF52 /* LoanComparisonScreen.swift */,
+				5D4C8A422EE30F03003DFF52 /* PPFCalculatorScreen.swift */,
+				5D4C8A432EE30F03003DFF52 /* RDCalculatorScreen.swift */,
+				5D4C8A442EE30F03003DFF52 /* SIPCalculatorScreen.swift */,
+			);
+			path = Calculators;
+			sourceTree = "<group>";
+		};
+		5D4C8A4E2EE30F03003DFF52 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5D4C8A452EE30F03003DFF52 /* Calculators */,
+				5D4C8A462EE30F03003DFF52 /* EMICalculatorView.swift */,
+				5D4C8A472EE30F03003DFF52 /* EMIHomeScreen.swift */,
+				5D4C8A482EE30F03003DFF52 /* EMIOnboardingView.swift */,
+				5D4C8A492EE30F03003DFF52 /* EMISettingsView.swift */,
+				5D4C8A4A2EE30F03003DFF52 /* MainAppView.swift */,
+				5D4C8A4B2EE30F03003DFF52 /* NetworkDemo.swift */,
+				5D4C8A4C2EE30F03003DFF52 /* OnboardingFlowView.swift */,
+				5D4C8A4D2EE30F03003DFF52 /* SplashScreen.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 		8B41F63C2DEDD0D5001A66F9 = {
@@ -131,7 +289,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
-				LastUpgradeCheck = 1630;
+				LastUpgradeCheck = 1640;
 				TargetAttributes = {
 					8B41F6442DEDD0D5001A66F9 = {
 						CreatedOnToolsVersion = 16.3;
@@ -148,7 +306,7 @@
 			mainGroup = 8B41F63C2DEDD0D5001A66F9;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference "../../IndieDevKit" */,
+				15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference ".." */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 8B41F6462DEDD0D5001A66F9 /* Products */;
@@ -177,8 +335,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				151EBD232E364205000645B5 /* DemoSubscriptionService.swift in Sources */,
+				5DFD7D8A2EE2D81F00266E8F /* OnboardingFlowView.swift in Sources */,
+				5DFD7D8B2EE2D81F00266E8F /* EMICalculatorView.swift in Sources */,
+				5DFD7D8C2EE2D81F00266E8F /* MainAppView.swift in Sources */,
 				151EBD242E364205000645B5 /* IndieBuilderKitDemoApp.swift in Sources */,
 				151EBD252E364205000645B5 /* NetworkDemo.swift in Sources */,
+				5D4C8A2C2EE30B3A003DFF52 /* CurrencyConverterScreen.swift in Sources */,
+				5D4C8A2D2EE30B3A003DFF52 /* RDCalculatorScreen.swift in Sources */,
+				5D4C8A2E2EE30B3A003DFF52 /* EMIOnboardingView.swift in Sources */,
+				5D4C8A2F2EE30B3A003DFF52 /* PPFCalculatorScreen.swift in Sources */,
+				5D4C8A302EE30B3A003DFF52 /* GSTCalculatorScreen.swift in Sources */,
+				5D4C8A312EE30B3A003DFF52 /* SplashScreen.swift in Sources */,
+				5D4C8A322EE30B3A003DFF52 /* FDCalculatorScreen.swift in Sources */,
+				5D4C8A332EE30B3A003DFF52 /* EMIHomeScreen.swift in Sources */,
+				5D4C8A4F2EE30F03003DFF52 /* FDCalculatorScreen.swift in Sources */,
+				5D4C8A502EE30F03003DFF52 /* EMIOnboardingView.swift in Sources */,
+				5D4C8A512EE30F03003DFF52 /* EMICalculatorView.swift in Sources */,
+				5D4C8A522EE30F03003DFF52 /* SplashScreen.swift in Sources */,
+				5D4C8A532EE30F03003DFF52 /* SIPCalculatorScreen.swift in Sources */,
+				5D4C8A542EE30F03003DFF52 /* RDCalculatorScreen.swift in Sources */,
+				5D4C8A552EE30F03003DFF52 /* LoanComparisonScreen.swift in Sources */,
+				5D4C8A562EE30F03003DFF52 /* CurrencyConverterScreen.swift in Sources */,
+				5D4C8A572EE30F03003DFF52 /* EMIModels.swift in Sources */,
+				5D4C8A582EE30F03003DFF52 /* DemoSubscriptionService.swift in Sources */,
+				5D4C8A592EE30F03003DFF52 /* EMISettingsView.swift in Sources */,
+				5D4C8A5A2EE30F03003DFF52 /* EMICalculationService.swift in Sources */,
+				5D4C8A5B2EE30F03003DFF52 /* GSTCalculatorScreen.swift in Sources */,
+				5D4C8A5C2EE30F03003DFF52 /* EMICalculatorScreen.swift in Sources */,
+				5D4C8A5D2EE30F03003DFF52 /* MainAppView.swift in Sources */,
+				5D4C8A5E2EE30F03003DFF52 /* OnboardingFlowView.swift in Sources */,
+				5D4C8A5F2EE30F03003DFF52 /* EMIHomeScreen.swift in Sources */,
+				5D4C8A602EE30F03003DFF52 /* NetworkDemo.swift in Sources */,
+				5D4C8A612EE30F03003DFF52 /* PPFCalculatorScreen.swift in Sources */,
+				5D4C8A342EE30B3A003DFF52 /* EMICalculatorScreen.swift in Sources */,
+				5D4C8A352EE30B3A003DFF52 /* EMISettingsView.swift in Sources */,
+				5D4C8A362EE30B3A003DFF52 /* LoanComparisonScreen.swift in Sources */,
+				5D4C8A372EE30B3A003DFF52 /* SIPCalculatorScreen.swift in Sources */,
 				151EBD262E364205000645B5 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -221,6 +413,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = YA3AFXJV86;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -285,6 +478,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = YA3AFXJV86;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -316,7 +510,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YA3AFXJV86;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = IndieBuilderKit;
@@ -347,7 +540,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YA3AFXJV86;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = IndieBuilderKit;
@@ -393,7 +585,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference "../../IndieDevKit" */ = {
+		15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference ".." */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = ..;
 		};
@@ -402,7 +594,7 @@
 /* Begin XCSwiftPackageProductDependency section */
 		151EBD272E3642A2000645B5 /* IndieBuilderKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference "../../IndieDevKit" */;
+			package = 15661EA12E33F7DB00DADF54 /* XCLocalSwiftPackageReference ".." */;
 			productName = IndieBuilderKit;
 		};
 /* End XCSwiftPackageProductDependency section */
